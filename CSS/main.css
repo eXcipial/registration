@@ -1,0 +1,43 @@
+.body {
+    background: linear-gradient(70deg, rgb(157, 96, 169), rgb(42, 122, 165));
+    position: relative;}
+.main {
+    width: 1000px;
+    display: inline-block;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%;}
+.section {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;}
+.privacy {
+    background-image: url('../img/hill.jpg');
+    background-size: cover;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 35%;
+    position: relative;}
+.form {
+    background-color: white;
+    padding: 40px;
+    width: calc(65% - 80px);
+}
+
+.button_zone {
+    display: flex;
+}
+.main_title {
+    color: white;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: lighter;}
+.bottom_devil {
+    width: 220px;
+    position: fixed;
+    bottom: 60px;
+    left: calc((350px - 220px) /2);
+    color: white;
+    }
