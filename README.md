@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: excipial.github.io/registration/
 
-Design: [Labirintas](https://imgur.com/YmOKW09
+Design: [Registration](https://imgur.com/YmOKW09
 
 ## 🎯 Project features/goals
 
