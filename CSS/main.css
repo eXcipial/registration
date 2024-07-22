@@ -68,3 +68,8 @@
     color: #0162DA; 
     font-weight: bolder;
     text-align: center;}
+.crazyx {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
