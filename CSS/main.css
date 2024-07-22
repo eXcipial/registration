@@ -76,3 +76,10 @@
     position: fixed;
     bottom: 20px;
     right: 20px;}
+.btn1:hover {
+    background-color:blueviolet;
+    color:black;
+}
+.btn2:hover {
+    color: red;
+}
