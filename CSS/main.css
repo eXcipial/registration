@@ -71,5 +71,8 @@
 .crazyx {
     position: fixed;
     top: 20px;
-    right: 20px;
-}
+    right: 20px;}
+.recover {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;}
